@@ -1,0 +1,9 @@
+glob
+hmmlearn
+matplotlib
+numpy
+os
+pandas
+scikit-learn
+seaborn
+tabulate
